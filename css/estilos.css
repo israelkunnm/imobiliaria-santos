@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+/*===Classes Globais==*/
+.secao{
+    padding-top:30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.paragrafo{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+/*===Classes Especiais===*/
+
+.servicos, .contato{
+    background-color: #1d80c1;
+}
+
+span{
+    font-weight: bold;
+
+}
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+.imovel, .corretor{
+    width: 450px;
+}
+
+/*==secao1==*/
+.topo{
+    background-color: #afddfb;
+}
+
+.imagem-topo{
+    width: 150px;
+}
+
+.paragrafo-topo {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.link-topo {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/*===secao2===*/
+.banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/*===secao3===*/
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.texto-azul{
+    color: #1d80c1;
+}
+
+/*===secao4===*/
+h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.paragrafo-secao{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.lista{
+    margin: 40px auto;
+    width: 135px;
+}
+
+.itens-lista{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/*===secao6===*/
+.paragrafo-contato{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    
+}
+
+.lista-contato{
+    margin: 20 auto;
+    list-style: none;
+    width: 210px;
+    display: inline;
+}
+
+.itens-contato{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
